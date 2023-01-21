@@ -4,7 +4,7 @@
   <img src="https://github.com/nicolasbenitiz/data_science/blob/main/NICOLAS%20BENITIZ.png" >
 </p>
 
-# Nícolas Benitiz
+# Nicolas Benitiz
 <sub>*RPA Developer* at BTG Pactual</sub>
 
 Being a RPA Develover, my main goal is to help people save more and more time, building solutions that automate daily repetitive boring routines.
