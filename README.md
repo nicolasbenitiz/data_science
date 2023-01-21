@@ -7,7 +7,7 @@
 # Nícolas Benitiz
 <sub>*RPA Developer* at BTG Pactual</sub>
 
-Being a RPA Develover, my main goal is to help people save more and more time, building solutions that automate daily repetitive and boring routines.
+Being a RPA Develover, my main goal is to help people save more and more time, building solutions that automate daily repetitive boring routines.
 At that perspective, data science expands my capacity on that mission, since digging data is key when thinking about working more efficiently.
 
 Besides that, I'm a Computer Science student at UFSCar (Universidade Federal de São Carlos).
